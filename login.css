@@ -50,9 +50,19 @@ form button:hover{
 }
 aside{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     width: 80%;
     background-color: #23961f;
+    color: black;
+    background-image: url(bookshelf-background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+aside h1{
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32pt;
     color: white;
+    text-shadow: -2px -2px black, 2px -2px black, -2px 2px black, 2px 2px black;
 }
