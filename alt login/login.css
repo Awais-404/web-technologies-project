@@ -1,4 +1,11 @@
-*{margin: 0px;}
+*{
+    margin: 0px;
+    background-color: rgb(15, 15, 15);
+    --form_background_color: rgb(30,30,30);
+    --glow_color: greenyellow;
+    --button_cokor: #2ff328;
+    --text_shadow: green;
+}
 
 main{
     display: flex;
@@ -7,8 +14,7 @@ main{
     align-items: center;
 
     width: 100vw;
-    height: 100vh;
-    background-color: rgb(15, 15, 15);
+    height: 80vh;
 }
 form{
     display: flex;
@@ -16,15 +22,15 @@ form{
     justify-content: center;
     align-items: center;
     padding: 40px 40px 10px 40px;
-    gap: 15px;
-    border: 2px solid greenyellow;
+    gap: 25px;
+    border: 2px solid var(--glow_color);
     border-radius: 30px;
-    background-color: rgb(30, 30, 30);
-    box-shadow: 0 0 10px 3px greenyellow;
+    background-color: var(--form_background_color);
+    box-shadow: 0 0 10px 3px var(--glow_color);
     color: white;
 }
 form input{
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     border: 1px solid black;
     border-radius: 5px;
     width: 250px;
@@ -36,28 +42,29 @@ form input::placeholder{
 form button{
     border: 1px solid black;
     border-radius: 15px;
-    padding: 5px 10px;
-    font-size: medium;
+    padding: 5px 12px;
     font-size: 14pt;
     margin-top: 10px;
-    background-color: #2ff328;
-    color: black;
+    background-color: var(--button_cokor);
 }
 form button:hover{
     background-color: black;
-    color: #2ff328;
-    box-shadow: 0 0 5px 2px greenyellow;
+    color: var(--button_cokor);
+    box-shadow: 0 0 5px 2px var(--glow_color);
 }
+p,a{
+    background-color: inherit;
+}
+
+
 main div{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
-    color: black;
 }
 main div h1{
     font-family:  sans-serif;
     font-size: 32pt;
     color: white;
-    text-shadow: -2px -2px 2px green, 2px -2px 2px green, -2px 2px 2px green, 2px 2px 2px green;
+    text-shadow: -2px -2px 2px var(--text_shadow), 2px -2px 2px var(--text_shadow), -2px 2px 2px var(--text_shadow), 2px 2px 2px var(--text_shadow);
 }
