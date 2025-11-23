@@ -56,7 +56,7 @@ aside{
     width: 80%;
     background-color: #23961f;
     color: black;
-    background-image: url(bookshelf-background.jpg);
+    background-image: url(assets/bookshelf-background.jpg);
     background-size: cover;
     background-position: center;
 }

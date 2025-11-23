@@ -12,7 +12,7 @@ body{
 header{
     position: sticky;
     top: 0px;
-    z-index: 1;
+    z-index: 2;
     width: 100%;
 }
 .header-top{
@@ -71,18 +71,49 @@ nav li img{
 
 
 main .section{
+    position: relative;
     padding: 10px;
     overflow: hidden;
     justify-self: center;
+    width: 90%;
 }
 main .section .book-array{
     display: flex;
     padding: 10px;
     gap: 50px;
+    overflow-x: auto;
 }
 main .section .book{
     transition: scale, 0.3s;
 }
 main .section .book:hover{
     transform: scale(1.1);
+}
+main .section .scroll-left-button, main .section .scroll-right-button{
+    position: absolute;
+    z-index: 1;
+    height: 70%;
+    width: 100px;
+    opacity: 0.5;
+    border: unset;
+
+    &:hover{
+        opacity: 0.9;
+        transform: scale(1.1);
+    }
+
+    &>img{
+        width: 50%;
+        rotate: 90deg;
+    }
+}
+main .section .scroll-left-button{
+    left: 0px;
+    visibility: hidden;
+}
+main .section .scroll-right-button{
+    right: 0px;
+    &>img{
+        rotate: -90deg;
+    }
 }
