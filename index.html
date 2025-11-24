@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="header-top">
-            <img src="assets/shelfscape-logo.png" alt="Logo" height="50px">
+            <img src="assets/shelfscape.png" alt="Logo" height="50px">
             <form action="" method="get">
                 <input type="text" name="" id="" placeholder="Search Book or Author">
                 <button type="submit"><img src="assets/search-icon.jpg" height="20px"></button>
@@ -30,122 +30,69 @@
     </header>
     <main>
         <div class="section">
-            <h2>Trending</h2>
+            <h1>Trending</h1>
             <div class="book-array">
                 <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
                 <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
+                <template id="book-template">
+                    <div class="book">
+                        <img class="book-cover" src="assets/book-cover.jpg" alt="book-cover" height="200px" width="130px">
+                    </div>
+                </template>
             </div>
+            <hr>
         </div>
         <div class="section">
-            <h2>Fantasy</h2>
+            <h1>Fantasy</h1>
             <div class="book-array">
                 <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
                 <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
             </div>
+            <hr>
         </div>
         <div class="section">
-            <h2>Romance</h2>
+            <h1>Sci-Fi</h1>
             <div class="book-array">
                 <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
                 <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
             </div>
+            <hr>
         </div>
         <div class="section">
-            <h2>Historical</h2>
+            <h1>Romance</h1>
             <div class="book-array">
                 <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
                 <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
-                <div class="book">
-                    <img src="assets/book-cover.jpg" alt="book-cover" height="200px">
-                </div>
             </div>
+            <hr>
+        </div>
+        <div class="section">
+            <h1>History</h1>
+            <div class="book-array">
+                <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
+                <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
+            </div>
+            <hr>
         </div>
     </main>
     <hr>
     <footer>
-        <h2>Footer</h2>
-        <h3>contact</h3>
+        <img src="assets/shelfscape-logo.png" alt="Logo" height="50px">
+        <div class="Contact">
+            <h2>Contact Us</h2>
+            <p>Shelfscape@gmail.com</p>
+            <p>+92 332 6769420</p>
+        </div>
+        <div class="socials">
+            <h2>Socials</h2>
+            <p><img src="assets/facebook-logo.png" height="25px">Facebook</p>
+            <p><img src="assets/instagram-logo.png" height="25px">Instagram</p>
+            <p><img src="assets/reddit-logo.png" height="25px">Reddit</p>
+            <p><img src="assets/x-logo.png" height="25px">X ( formerly 'twitter' )</p>
+        </div>
+        <div class="copyright">
+            <p>&copy; copyright 2025 shelfscape.com</p>
+        </div>
     </footer>
 
     <script src="script.js"></script>
