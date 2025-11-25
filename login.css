@@ -4,7 +4,7 @@
     display: flex;
     height: 100vh;
     width: 100vw;
-    background-color: #ccfaca;
+    background-color: mintcream;
 }
 main{
     display: flex;
@@ -22,7 +22,7 @@ form{
     gap: 15px;
     border: 2px solid black;
     border-radius: 30px;
-    background-color: #8bf188;
+    background-color: steelblue;
 }
 form input{
     background-color: rgb(255, 255, 255);
@@ -41,12 +41,15 @@ form button{
     font-size: medium;
     font-size: 14pt;
     margin-top: 10px;
-    background-color: #2ff328;
-    color: black;
+    background-color: rgb(16, 62, 100);
+    color: white;
 }
 form button:hover{
-    background-color: black;
-    color: #2ff328;
+    background-color: white;
+    color: steelblue;
+}
+form p{
+    color: aliceblue;
 }
 aside{
     display: flex;
@@ -54,15 +57,17 @@ aside{
     justify-content: center;
     align-items: center;
     width: 80%;
-    background-color: #23961f;
     color: black;
     background-image: url(assets/bookshelf-background.jpg);
     background-size: cover;
     background-position: center;
 }
-aside h1{
+aside h2{
     font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 32pt;
     color: white;
-    text-shadow: -2px -2px black, 2px -2px black, -2px 2px black, 2px 2px black;
+    text-align: center;
+    width: 80%;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    text-shadow: -1px -1px black, 1px -1px black, -1px 1px black, 1px 1px black;
 }
