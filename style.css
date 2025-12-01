@@ -77,6 +77,20 @@ nav ul li{
 }
 
 
+main .hero{
+    position: relative;
+    justify-self: center;
+    width: 95%;
+    overflow: hidden;
+}
+.hero .banner-scroller{
+    display: flex;
+    position: relative;
+}
+.hero .banner{
+    width: 100%;
+}
+
 
 main .section{
     position: relative;
@@ -143,6 +157,8 @@ footer .socials{
     & p{
         display: flex;
         align-items: center;
+        margin: 3PX;
+        gap: 5px;
     }
 }
 footer .copyright{

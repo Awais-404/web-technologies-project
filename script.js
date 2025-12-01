@@ -1,5 +1,8 @@
 const book_arrays = Array.from(document.querySelectorAll('.book-array'));
 const book_template = document.getElementById("book-template")
+var banner_scroller = document.querySelector(".banner-scroller")
+var banner_count = 4
+var current_banner = 1
 
 window.onload = function(){
   fill_book_arrays()
@@ -8,6 +11,20 @@ window.onload = function(){
   }, 100);
 }
 window.addEventListener("resize", set_scroll_btn_visibility);
+
+
+function scroll_banner(){
+  if (current_banner == banner_count) {
+    banner_scroller.style.transitionDuration = '0s';
+    banner_scroller.style.transform = "translateX(0px)"
+    current_banner = 1
+  }
+  var scroll_width = banner_scroller.offsetWidth;
+  banner_scroller.style.transitionDuration = '1.5s';
+  banner_scroller.style.transform = `translateX(${-scroll_width*current_banner}px)`
+  current_banner ++
+}
+setInterval(scroll_banner, 6000);
 
 function fill_book_arrays(){
   book_arrays.forEach(book_array => {
