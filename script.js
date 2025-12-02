@@ -24,7 +24,7 @@ function scroll_banner(){
   banner_scroller.style.transform = `translateX(${-scroll_width*current_banner}px)`
   current_banner ++
 }
-setInterval(scroll_banner, 6000);
+setInterval(scroll_banner, 5000);
 
 function fill_book_arrays(){
   book_arrays.forEach(book_array => {
