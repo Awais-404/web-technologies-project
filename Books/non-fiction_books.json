@@ -1,0 +1,730 @@
+[
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "category": ["History", "Science"],
+    "synopsis": "A sweeping narrative of how Homo sapiens evolved, spread across the globe, built complex societies, and reshaped the planet.",
+    "release_date": "2011-01-01",
+    "cover_path": "Books/Book-covers/Sapiens: A Brief History of Humankind.jpg"
+  },
+  {
+    "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "author": "Jared Diamond",
+    "category": ["History", "Science"],
+    "synopsis": "An exploration of how geography, agriculture, and infectious disease shaped the unequal development of civilizations.",
+    "release_date": "1997-03-01",
+    "cover_path": "Books/Book-covers/Guns, Germs, and Steel: The Fates of Human Societies.jpg"
+  },
+  {
+    "title": "1491: New Revelations of the Americas Before Columbus",
+    "author": "Charles C. Mann",
+    "category": ["History"],
+    "synopsis": "A reexamination of the Americas before European contact, arguing that pre-Columbian societies were more populous and advanced than once believed.",
+    "release_date": "2005-08-02",
+    "cover_path": "Books/Book-covers/1491: New Revelations of the Americas Before Columbus.jpg"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "category": ["History", "Biography/Autobiography"],
+    "synopsis": "The personal writings of a Jewish girl hiding from the Nazis in occupied Amsterdam during World War II.",
+    "release_date": "1947-06-25",
+    "cover_path": "Books/Book-covers/The Diary of a Young Girl.jpg"
+  },
+  {
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "category": ["History", "Biography/Autobiography"],
+    "synopsis": "The story of Wilbur and Orville Wright and how their persistence and ingenuity led to the first successful powered flight.",
+    "release_date": "2015-05-05",
+    "cover_path": "Books/Book-covers/The Wright Brothers.jpg"
+  },
+  {
+    "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+    "author": "Doris Kearns Goodwin",
+    "category": ["History", "Biography/Autobiography"],
+    "synopsis": "An account of Abraham Lincoln’s leadership style and his decision to appoint political rivals to his cabinet during the Civil War.",
+    "release_date": "2005-10-25",
+    "cover_path": "Books/Book-covers/Team of Rivals: The Political Genius of Abraham Lincoln.jpg"
+  },
+  {
+    "title": "The Rise and Fall of the Third Reich",
+    "author": "William L. Shirer",
+    "category": ["History"],
+    "synopsis": "A comprehensive history of Nazi Germany, from its origins to its collapse at the end of World War II.",
+    "release_date": "1960-10-17",
+    "cover_path": "Books/Book-covers/The Rise and Fall of the Third Reich.jpg"
+  },
+  {
+    "title": "The Silk Roads: A New History of the World",
+    "author": "Peter Frankopan",
+    "category": ["History"],
+    "synopsis": "A global history that places Asia and the trade routes between East and West at the center of world events.",
+    "release_date": "2015-08-27",
+    "cover_path": "Books/Book-covers/The Silk Roads: A New History of the World.jpg"
+  },
+  {
+    "title": "A People’s History of the United States",
+    "author": "Howard Zinn",
+    "category": ["History"],
+    "synopsis": "A retelling of U.S. history focused on the experiences of ordinary people rather than political and military leaders.",
+    "release_date": "1980-01-01",
+    "cover_path": "Books/Book-covers/A People’s History of the United States.jpg"
+  },
+  {
+    "title": "The Invention of Yesterday: A 50,000-Year History of Human Culture, Conflict, and Connection",
+    "author": "Tamim Ansary",
+    "category": ["History"],
+    "synopsis": "A narrative overview of human history that emphasizes how cultures and ideas shaped global connections and conflicts.",
+    "release_date": "2019-10-01",
+    "cover_path": "Books/Book-covers/The Invention of Yesterday: A 50,000-Year History of Human Culture, Conflict, and Connection.jpg"
+  },
+
+  {
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "author": "James Clear",
+    "category": ["Self Help", "Health & Fitness"],
+    "synopsis": "A practical guide to forming small daily habits that compound into significant long-term change.",
+    "release_date": "2018-10-16",
+    "cover_path": "Books/Book-covers/Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.jpg"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "category": ["Self Help"],
+    "synopsis": "A framework of seven principles for personal and professional effectiveness based on character and values.",
+    "release_date": "1989-08-15",
+    "cover_path": "Books/Book-covers/The 7 Habits of Highly Effective People.jpg"
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "category": ["Self Help"],
+    "synopsis": "Timeless advice on communication, persuasion, and building positive relationships.",
+    "release_date": "1936-10-01",
+    "cover_path": "Books/Book-covers/How to Win Friends and Influence People.jpg"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": ["Self Help", "Science"],
+    "synopsis": "An explanation of two systems of thinking—intuitive and deliberate—and how they shape judgment and decision-making.",
+    "release_date": "2011-10-25",
+    "cover_path": "Books/Book-covers/Thinking, Fast and Slow.jpg"
+  },
+  {
+    "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+    "author": "Eckhart Tolle",
+    "category": ["Self Help", "Religion & Spirituality"],
+    "synopsis": "A guide to cultivating presence and reducing psychological suffering by focusing on the present moment.",
+    "release_date": "1997-01-01",
+    "cover_path": "Books/Book-covers/The Power of Now: A Guide to Spiritual Enlightenment.jpg"
+  },
+  {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "category": ["Self Help", "Philosophy", "Biography/Autobiography"],
+    "synopsis": "A Holocaust survivor reflects on his experiences and presents logotherapy, a psychotherapy centered on finding meaning.",
+    "release_date": "1946-01-01",
+    "cover_path": "Books/Book-covers/Man’s Search for Meaning.jpg"
+  },
+  {
+    "title": "Daring Greatly",
+    "author": "Brené Brown",
+    "category": ["Self Help"],
+    "synopsis": "An argument that vulnerability and courage are essential for connection, creativity, and wholehearted living.",
+    "release_date": "2012-09-11",
+    "cover_path": "Books/Book-covers/Daring Greatly.jpg"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "category": ["Self Help"],
+    "synopsis": "A counterintuitive approach to focusing on what truly matters by accepting limitations and embracing responsibility.",
+    "release_date": "2016-09-13",
+    "cover_path": "Books/Book-covers/The Subtle Art of Not Giving a F_ck.jpg"
+  },
+  {
+    "title": "Deep Work: Rules for Focused Success in a Distracted World",
+    "author": "Cal Newport",
+    "category": ["Self Help", "Education"],
+    "synopsis": "A framework for cultivating the ability to focus intensely and produce high-quality work in less time.",
+    "release_date": "2016-01-05",
+    "cover_path": "Books/Book-covers/Deep Work: Rules for Focused Success in a Distracted World.jpg"
+  },
+  {
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "category": ["Self Help", "Education"],
+    "synopsis": "An exploration of fixed versus growth mindsets and how beliefs about ability affect learning and achievement.",
+    "release_date": "2006-02-28",
+    "cover_path": "Books/Book-covers/Mindset: The New Psychology of Success.jpg"
+  },
+
+  {
+    "title": "The Bhagavad Gita",
+    "author": "Traditionally attributed to Vyasa",
+    "category": ["Religion & Spirituality", "Philosophy"],
+    "synopsis": "A sacred Hindu text presenting a dialogue between Prince Arjuna and the god Krishna on duty, devotion, and self-realization.",
+    "release_date": "0001-01-01",
+    "cover_path": "Books/Book-covers/The Bhagavad Gita.jpg"
+  },
+  {
+    "title": "The Bible",
+    "author": "Multiple authors",
+    "category": ["Religion & Spirituality"],
+    "synopsis": "A collection of sacred texts central to Christianity, including historical narratives, poetry, prophecy, and teachings.",
+    "release_date": "0001-01-01",
+    "cover_path": "Books/Book-covers/The Bible.jpg"
+  },
+  {
+    "title": "The Quran",
+    "author": "Traditionally viewed as revealed to Muhammad",
+    "category": ["Religion & Spirituality"],
+    "synopsis": "The central religious text of Islam, believed by Muslims to be the word of God revealed in Arabic.",
+    "release_date": "0001-01-01",
+    "cover_path": "Books/Book-covers/The Quran.jpg"
+  },
+  {
+    "title": "The Tao Te Ching",
+    "author": "Laozi",
+    "category": ["Religion & Spirituality", "Philosophy"],
+    "synopsis": "A foundational Taoist text offering concise verses on harmony, humility, and living in accordance with the Dao.",
+    "release_date": "0001-01-01",
+    "cover_path": "Books/Book-covers/The Tao Te Ching.jpg"
+  },
+  {
+    "title": "The Varieties of Religious Experience",
+    "author": "William James",
+    "category": ["Religion & Spirituality", "Philosophy"],
+    "synopsis": "A classic study of religious and mystical experiences, analyzing their psychological roots and significance.",
+    "release_date": "1902-01-01",
+    "cover_path": "Books/Book-covers/The Varieties of Religious Experience.jpg"
+  },
+  {
+    "title": "The Purpose Driven Life",
+    "author": "Rick Warren",
+    "category": ["Religion & Spirituality", "Self Help"],
+    "synopsis": "A Christian-focused guide inviting readers to discover their purpose through faith, service, and spiritual growth.",
+    "release_date": "2002-10-01",
+    "cover_path": "Books/Book-covers/The Purpose Driven Life.jpg"
+  },
+  {
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "category": ["Religion & Spirituality", "Self Help"],
+    "synopsis": "A practical spiritual guide based on ancient Toltec wisdom, centered on four personal commitments for freedom and peace.",
+    "release_date": "1997-11-07",
+    "cover_path": "Books/Book-covers/The Four Agreements.jpg"
+  },
+  {
+    "title": "Autobiography of a Yogi",
+    "author": "Paramahansa Yogananda",
+    "category": ["Religion & Spirituality", "Biography/Autobiography"],
+    "synopsis": "The spiritual autobiography of an Indian yogi who helped introduce meditation and Kriya Yoga to the West.",
+    "release_date": "1946-01-01",
+    "cover_path": "Books/Book-covers/Autobiography of a Yogi.jpg"
+  },
+  {
+    "title": "The Reason for God: Belief in an Age of Skepticism",
+    "author": "Timothy Keller",
+    "category": ["Religion & Spirituality"],
+    "synopsis": "A defense of Christian faith responding to common doubts and objections about belief in God.",
+    "release_date": "2008-02-14",
+    "cover_path": "Books/Book-covers/The Reason for God: Belief in an Age of Skepticism.jpg"
+  },
+  {
+    "title": "The God Delusion",
+    "author": "Richard Dawkins",
+    "category": ["Religion & Spirituality", "Science"],
+    "synopsis": "An argument against religious belief and in favor of a scientific, secular worldview.",
+    "release_date": "2006-09-18",
+    "cover_path": "Books/Book-covers/The God Delusion.jpg"
+  },
+
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": ["Education", "Biography/Autobiography"],
+    "synopsis": "A memoir of a woman who grew up in a survivalist family with no formal schooling and eventually earns a PhD from Cambridge.",
+    "release_date": "2018-02-20",
+    "cover_path": "Books/Book-covers/Educated.jpg"
+  },
+  {
+    "title": "Pedagogy of the Oppressed",
+    "author": "Paulo Freire",
+    "category": ["Education", "Philosophy"],
+    "synopsis": "A foundational text in critical pedagogy arguing for dialogical, liberating education for the marginalized.",
+    "release_date": "1968-01-01",
+    "cover_path": "Books/Book-covers/Pedagogy of the Oppressed.jpg"
+  },
+  {
+    "title": "Make It Stick: The Science of Successful Learning",
+    "author": "Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel",
+    "category": ["Education", "Science"],
+    "synopsis": "Research-based strategies for more effective learning, including spaced practice, retrieval, and interleaving.",
+    "release_date": "2014-04-14",
+    "cover_path": "Books/Book-covers/Make It Stick: The Science of Successful Learning.jpg"
+  },
+  {
+    "title": "Why Don’t Students Like School?",
+    "author": "Daniel T. Willingham",
+    "category": ["Education", "Science"],
+    "synopsis": "A cognitive psychologist explains how the mind works in classroom settings and offers practical teaching principles.",
+    "release_date": "2009-03-15",
+    "cover_path": "Books/Book-covers/Why Don’t Students Like School_.jpg"
+  },
+  {
+    "title": "The Courage to Teach",
+    "author": "Parker J. Palmer",
+    "category": ["Education"],
+    "synopsis": "A reflection on how teachers can bring integrity and identity into their work to create authentic learning communities.",
+    "release_date": "1997-01-01",
+    "cover_path": "Books/Book-covers/The Courage to Teach.jpg"
+  },
+  {
+    "title": "Brain Rules",
+    "author": "John Medina",
+    "category": ["Education", "Science"],
+    "synopsis": "Twelve principles about how the brain works, with implications for teaching, learning, and everyday life.",
+    "release_date": "2008-03-13",
+    "cover_path": "Books/Book-covers/Brain Rules.jpg"
+  },
+  {
+    "title": "The Element: How Finding Your Passion Changes Everything",
+    "author": "Ken Robinson",
+    "category": ["Education", "Self Help"],
+    "synopsis": "Stories and arguments about how discovering personal passion can transform education and careers.",
+    "release_date": "2009-01-08",
+    "cover_path": "Books/Book-covers/The Element: How Finding Your Passion Changes Everything.jpg"
+  },
+  {
+    "title": "Teach Like a Champion",
+    "author": "Doug Lemov",
+    "category": ["Education"],
+    "synopsis": "A compilation of practical techniques used by highly effective teachers to improve classroom instruction.",
+    "release_date": "2010-04-06",
+    "cover_path": "Books/Book-covers/Teach Like a Champion.jpg"
+  },
+  {
+    "title": "The First Days of School",
+    "author": "Harry K. Wong and Rosemary T. Wong",
+    "category": ["Education"],
+    "synopsis": "Advice for teachers on classroom management and setting expectations from the start of the school year.",
+    "release_date": "1991-01-01",
+    "cover_path": "Books/Book-covers/The First Days of School.jpg"
+  },
+  {
+    "title": "A Mind for Numbers",
+    "author": "Barbara Oakley",
+    "category": ["Education", "Science"],
+    "synopsis": "Techniques to learn math and science more effectively by managing focus, practice, and memory.",
+    "release_date": "2014-07-31",
+    "cover_path": "Books/Book-covers/A Mind for Numbers.jpg"
+  },
+
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "category": ["Philosophy"],
+    "synopsis": "Personal reflections by a Roman emperor outlining Stoic principles for resilience, virtue, and inner calm.",
+    "release_date": "0001-01-01",
+    "cover_path": "Books/Book-covers/Meditations.jpg"
+  },
+  {
+    "title": "Nicomachean Ethics",
+    "author": "Aristotle",
+    "category": ["Philosophy"],
+    "synopsis": "A foundational work defining virtue, happiness, and the good life as activities in accordance with reason.",
+    "release_date": "0001-01-01",
+    "cover_path": "Books/Book-covers/Nicomachean Ethics.jpg"
+  },
+  {
+    "title": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "category": ["Philosophy"],
+    "synopsis": "An examination of the limits and structure of human knowledge, distinguishing phenomena from things-in-themselves.",
+    "release_date": "1781-01-01",
+    "cover_path": "Books/Book-covers/Critique of Pure Reason.jpg"
+  },
+  {
+    "title": "Being and Time",
+    "author": "Martin Heidegger",
+    "category": ["Philosophy"],
+    "synopsis": "An exploration of human existence, time, and meaning through the concept of Dasein, or being-there.",
+    "release_date": "1927-01-01",
+    "cover_path": "Books/Book-covers/Being and Time.jpg"
+  },
+  {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "category": ["Philosophy"],
+    "synopsis": "A philosophical narrative presenting ideas such as the Übermensch, eternal recurrence, and the revaluation of values.",
+    "release_date": "1883-01-01",
+    "cover_path": "Books/Book-covers/Thus Spoke Zarathustra.jpg"
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "category": ["Philosophy"],
+    "synopsis": "A dialogue considering justice, the ideal state, and the philosopher-king, including the allegory of the cave.",
+    "release_date": "0001-01-01",
+    "cover_path": "Books/Book-covers/The Republic.jpg"
+  },
+  {
+    "title": "The Myth of Sisyphus",
+    "author": "Albert Camus",
+    "category": ["Philosophy"],
+    "synopsis": "An essay arguing that life’s absurdity does not negate the value of living but calls for defiant acceptance.",
+    "release_date": "1942-01-01",
+    "cover_path": "Books/Book-covers/The Myth of Sisyphus.jpg"
+  },
+  {
+    "title": "Justice: What’s the Right Thing to Do?",
+    "author": "Michael J. Sandel",
+    "category": ["Philosophy", "Education"],
+    "synopsis": "An accessible overview of moral and political philosophy through real-world dilemmas and case studies.",
+    "release_date": "2009-09-15",
+    "cover_path": "Books/Book-covers/Justice: What’s the Right Thing to Do_.jpg"
+  },
+  {
+    "title": "Sophie's World",
+    "author": "Jostein Gaarder",
+    "category": ["Philosophy", "Education"],
+    "synopsis": "A novel-like introduction to the history of philosophy framed as a mystery sent to a teenage girl.",
+    "release_date": "1991-01-01",
+    "cover_path": "Books/Book-covers/Sophie’s World.jpg"
+  },
+  {
+    "title": "The Problems of Philosophy",
+    "author": "Bertrand Russell",
+    "category": ["Philosophy"],
+    "synopsis": "A concise introduction to fundamental philosophical questions about knowledge, reality, and appearance.",
+    "release_date": "1912-01-01",
+    "cover_path": "Books/Book-covers/The Problems of Philosophy.jpg"
+  },
+
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": ["Science"],
+    "synopsis": "An accessible explanation of cosmology topics such as the Big Bang, black holes, and the nature of time.",
+    "release_date": "1988-04-01",
+    "cover_path": "Books/Book-covers/A Brief History of Time.jpg"
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": ["Science"],
+    "synopsis": "A gene-centered view of evolution, introducing concepts like the selfish gene and memes.",
+    "release_date": "1976-03-13",
+    "cover_path": "Books/Book-covers/The Selfish Gene.jpg"
+  },
+  {
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "category": ["Science", "History"],
+    "synopsis": "The foundational text for evolutionary biology, outlining natural selection as the mechanism of evolution.",
+    "release_date": "1859-11-24",
+    "cover_path": "Books/Book-covers/The Origin of Species.jpg"
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "category": ["Science"],
+    "synopsis": "A tour of the universe, tracing the history of scientific discovery and humanity’s place in the cosmos.",
+    "release_date": "1980-01-01",
+    "cover_path": "Books/Book-covers/Cosmos.jpg"
+  },
+  {
+    "title": "The Gene: An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "category": ["Science", "History"],
+    "synopsis": "A history of genetics intertwined with personal stories, from early heredity theories to modern gene editing.",
+    "release_date": "2016-05-17",
+    "cover_path": "Books/Book-covers/The Gene: An Intimate History.jpg"
+  },
+  {
+    "title": "The Emperor of All Maladies: A Biography of Cancer",
+    "author": "Siddhartha Mukherjee",
+    "category": ["Science", "Health & Fitness"],
+    "synopsis": "A narrative history of cancer research and treatment, framed as a biography of the disease.",
+    "release_date": "2010-11-09",
+    "cover_path": "Books/Book-covers/The Emperor of All Maladies: A Biography of Cancer.jpg"
+  },
+  {
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas S. Kuhn",
+    "category": ["Science", "Philosophy"],
+    "synopsis": "An influential work arguing that scientific progress occurs through paradigm shifts rather than steady accumulation.",
+    "release_date": "1962-01-01",
+    "cover_path": "Books/Book-covers/The Structure of Scientific Revolutions.jpg"
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "category": ["Science", "Biography/Autobiography"],
+    "synopsis": "The story of the woman whose cancer cells became the HeLa line, raising questions about ethics and consent in research.",
+    "release_date": "2010-02-02",
+    "cover_path": "Books/Book-covers/The Immortal Life of Henrietta Lacks.jpg"
+  },
+  {
+    "title": "Silent Spring",
+    "author": "Rachel Carson",
+    "category": ["Science", "History"],
+    "synopsis": "A groundbreaking work on the environmental impact of pesticides that helped launch the modern environmental movement.",
+    "release_date": "1962-09-27",
+    "cover_path": "Books/Book-covers/Silent Spring.jpg"
+  },
+  {
+    "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+    "author": "Carl Sagan",
+    "category": ["Science"],
+    "synopsis": "A defense of scientific thinking and skepticism in the face of pseudoscience and superstition.",
+    "release_date": "1995-03-06",
+    "cover_path": "Books/Book-covers/The Demon-Haunted World: Science as a Candle in the Dark.jpg"
+  },
+
+  {
+    "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+    "author": "Matthew Walker",
+    "category": ["Health & Fitness", "Science"],
+    "synopsis": "An overview of the science of sleep and practical guidance for improving sleep habits.",
+    "release_date": "2017-10-03",
+    "cover_path": "Books/Book-covers/Why We Sleep: Unlocking the Power of Sleep and Dreams.jpg"
+  },
+  {
+    "title": "Born to Run",
+    "author": "Christopher McDougall",
+    "category": ["Health & Fitness", "Biography/Autobiography"],
+    "synopsis": "A narrative exploring ultrarunning, the Tarahumara people, and what humans are capable of physically.",
+    "release_date": "2009-05-05",
+    "cover_path": "Books/Book-covers/Born to Run.jpg"
+  },
+  {
+    "title": "Spark: The Revolutionary New Science of Exercise and the Brain",
+    "author": "John J. Ratey",
+    "category": ["Health & Fitness", "Science"],
+    "synopsis": "How physical exercise affects brain function, mood, learning, and mental health.",
+    "release_date": "2008-01-10",
+    "cover_path": "Books/Book-covers/Spark: The Revolutionary New Science of Exercise and the Brain.jpg"
+  },
+  {
+    "title": "In Defense of Food: An Eater’s Manifesto",
+    "author": "Michael Pollan",
+    "category": ["Health & Fitness", "Science"],
+    "synopsis": "A critique of modern industrial diets with simple principles for eating more whole, real foods.",
+    "release_date": "2008-01-01",
+    "cover_path": "Books/Book-covers/In Defense of Food: An Eater’s Manifesto.jpg"
+  },
+  {
+    "title": "The Omnivore’s Dilemma",
+    "author": "Michael Pollan",
+    "category": ["Health & Fitness", "Science"],
+    "synopsis": "An investigation into the origins and consequences of four different meals representing modern food chains.",
+    "release_date": "2006-04-11",
+    "cover_path": "Books/Book-covers/The Omnivore’s Dilemma.jpg"
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "category": ["Health & Fitness", "Science"],
+    "synopsis": "A look at how trauma reshapes the brain and body and which therapies can help people heal.",
+    "release_date": "2014-09-25",
+    "cover_path": "Books/Book-covers/The Body Keeps the Score.jpg"
+  },
+  {
+    "title": "Why Zebras Don’t Get Ulcers",
+    "author": "Robert M. Sapolsky",
+    "category": ["Health & Fitness", "Science"],
+    "synopsis": "An explanation of how chronic stress contributes to modern diseases and what can be done about it.",
+    "release_date": "1994-01-01",
+    "cover_path": "Books/Book-covers/Why Zebras Don’t Get Ulcers.jpg"
+  },
+  {
+    "title": "You Are Your Own Gym",
+    "author": "Mark Lauren",
+    "category": ["Health & Fitness"],
+    "synopsis": "A bodyweight training approach that emphasizes simple, equipment-free workouts for strength and conditioning.",
+    "release_date": "2010-01-01",
+    "cover_path": "Books/Book-covers/You Are Your Own Gym.jpg"
+  },
+  {
+    "title": "Bigger Leaner Stronger",
+    "author": "Michael Matthews",
+    "category": ["Health & Fitness"],
+    "synopsis": "A straightforward guide to building muscle and losing fat with evidence-based training and nutrition.",
+    "release_date": "2012-01-15",
+    "cover_path": "Books/Book-covers/Bigger Leaner Stronger.jpg"
+  },
+  {
+    "title": "The Joy of Movement",
+    "author": "Kelly McGonigal",
+    "category": ["Health & Fitness"],
+    "synopsis": "How physical activity can foster happiness, connection, and resilience beyond just fitness.",
+    "release_date": "2019-12-31",
+    "cover_path": "Books/Book-covers/The Joy of Movement.jpg"
+  },
+
+  {
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "category": ["Biography/Autobiography", "History"],
+    "synopsis": "The autobiography of South Africa’s anti-apartheid leader and first Black president.",
+    "release_date": "1994-11-01",
+    "cover_path": "Books/Book-covers/Long Walk to Freedom.jpg"
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "category": ["Biography/Autobiography"],
+    "synopsis": "A biography of Apple cofounder Steve Jobs, based on extensive interviews with Jobs and those around him.",
+    "release_date": "2011-10-24",
+    "cover_path": "Books/Book-covers/Steve Jobs.jpg"
+  },
+  {
+    "title": "Alexander Hamilton",
+    "author": "Ron Chernow",
+    "category": ["Biography/Autobiography", "History"],
+    "synopsis": "A detailed biography of the American Founding Father who shaped the nation’s financial system.",
+    "release_date": "2004-04-26",
+    "cover_path": "Books/Book-covers/Alexander Hamilton.jpg"
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "category": ["Biography/Autobiography", "Health & Fitness"],
+    "synopsis": "A neurosurgeon’s memoir written after his diagnosis with terminal lung cancer, reflecting on meaning and mortality.",
+    "release_date": "2016-01-12",
+    "cover_path": "Books/Book-covers/When Breath Becomes Air.jpg"
+  },
+  {
+    "title": "The Diary of Frida Kahlo",
+    "author": "Frida Kahlo",
+    "category": ["Biography/Autobiography"],
+    "synopsis": "An intimate journal containing the writings and drawings of the iconic Mexican painter.",
+    "release_date": "1995-01-01",
+    "cover_path": "Books/Book-covers/The Diary of Frida Kahlo.jpg"
+  },
+  {
+    "title": "Open",
+    "author": "Andre Agassi",
+    "category": ["Biography/Autobiography", "Health & Fitness"],
+    "synopsis": "A candid memoir by the tennis champion, covering his career, struggles, and personal growth.",
+    "release_date": "2009-11-09",
+    "cover_path": "Books/Book-covers/Open.jpg"
+  },
+  {
+    "title": "Bossypants",
+    "author": "Tina Fey",
+    "category": ["Biography/Autobiography", "Fun & Games"],
+    "synopsis": "A humorous memoir from comedian and TV writer Tina Fey about her life and career.",
+    "release_date": "2011-04-05",
+    "cover_path": "Books/Book-covers/Bossypants.jpg"
+  },
+  {
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "category": ["Biography/Autobiography", "History"],
+    "synopsis": "Stories from the comedian’s upbringing in apartheid and post-apartheid South Africa as the son of a Black mother and white father.",
+    "release_date": "2016-11-15",
+    "cover_path": "Books/Book-covers/Born a Crime.jpg"
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "category": ["Biography/Autobiography"],
+    "synopsis": "The former First Lady’s memoir about her childhood, career, and life in the White House.",
+    "release_date": "2018-11-13",
+    "cover_path": "Books/Book-covers/Becoming.jpg"
+  },
+  {
+    "title": "Educating Esmé",
+    "author": "Esmé Raji Codell",
+    "category": ["Biography/Autobiography", "Education"],
+    "synopsis": "A teacher’s diary chronicling her first year in a tough inner-city classroom.",
+    "release_date": "1999-09-01",
+    "cover_path": "Books/Book-covers/Educating Esmé.jpg"
+  },
+
+  {
+    "title": "The Book of General Ignorance",
+    "author": "John Lloyd and John Mitchinson",
+    "category": ["Fun & Games", "Education"],
+    "synopsis": "A collection of surprising facts that correct common misconceptions in a humorous way.",
+    "release_date": "2006-09-07",
+    "cover_path": "Books/Book-covers/The Book of General Ignorance.jpg"
+  },
+  {
+    "title": "The Ultimate Trivial Pursuit Question & Answer Book",
+    "author": "Scott McNeely",
+    "category": ["Fun & Games"],
+    "synopsis": "A compilation of thousands of trivia questions across multiple categories, inspired by the classic board game.",
+    "release_date": "2010-09-01",
+    "cover_path": "Books/Book-covers/The Ultimate Trivial Pursuit Question & Answer Book.jpg"
+  },
+  {
+    "title": "The Big Book of Sudoku",
+    "author": "Will Shortz",
+    "category": ["Fun & Games"],
+    "synopsis": "A large collection of Sudoku puzzles ranging in difficulty from easy to challenging.",
+    "release_date": "2004-06-01",
+    "cover_path": "Books/Book-covers/The Big Book of Sudoku.jpg"
+  },
+  {
+    "title": "The New York Times Crossword Puzzles 365 Day Calendar",
+    "author": "The New York Times",
+    "category": ["Fun & Games"],
+    "synopsis": "A collection of daily crossword puzzles offering a mix of difficulty and themes.",
+    "release_date": "2019-07-01",
+    "cover_path": "Books/Book-covers/The New York Times Crossword Puzzles 365 Day Calendar.jpg"
+  },
+  {
+    "title": "Hoyle’s Rules of Games",
+    "author": "Albert H. Morehead and Geoffrey Mott-Smith",
+    "category": ["Fun & Games"],
+    "synopsis": "Reference rules and variations for card games, board games, and other classic pastimes.",
+    "release_date": "1946-01-01",
+    "cover_path": "Books/Book-covers/Hoyle’s Rules of Games.jpg"
+  },
+  {
+    "title": "The Darwin Awards: Evolution in Action",
+    "author": "Wendy Northcutt",
+    "category": ["Fun & Games", "Science"],
+    "synopsis": "A humorous collection of stories about people whose foolhardy actions allegedly removed them from the gene pool.",
+    "release_date": "2000-10-01",
+    "cover_path": "Books/Book-covers/The Darwin Awards: Evolution in Action.jpg"
+  },
+  {
+    "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+    "author": "Randall Munroe",
+    "category": ["Fun & Games", "Science"],
+    "synopsis": "Playful, scientific responses to bizarre questions, often involving cartoons and thought experiments.",
+    "release_date": "2014-09-02",
+    "cover_path": "Books/Book-covers/What If_: Serious Scientific Answers to Absurd Hypothetical Questions.jpg"
+  },
+  {
+    "title": "The Book of Games: Strategy, Tactics & History",
+    "author": "Jack Botermans",
+    "category": ["Fun & Games", "History"],
+    "synopsis": "An illustrated guide to the history, rules, and strategies of traditional games from around the world.",
+    "release_date": "2008-10-28",
+    "cover_path": "Books/Book-covers/The Book of Games: Strategy, Tactics & History.jpg"
+  },
+  {
+    "title": "The Ultimate Puzzle Book",
+    "author": "Rebecca Falcon",
+    "category": ["Fun & Games"],
+    "synopsis": "A variety of logic puzzles, word puzzles, and brainteasers designed for different ages and skill levels.",
+    "release_date": "2017-04-01",
+    "cover_path": "Books/Book-covers/The Ultimate Puzzle Book.jpg"
+  },
+  {
+    "title": "The Comic Toolbox: How to Be Funny Even If You’re Not",
+    "author": "John Vorhaus",
+    "category": ["Fun & Games", "Self Help"],
+    "synopsis": "Tools and exercises for developing comedic timing, jokes, and humorous stories.",
+    "release_date": "1994-01-01",
+    "cover_path": "Books/Book-covers/The Comic Toolbox- How to Be Funny Even If You’re Not.jpg"
+  }
+]

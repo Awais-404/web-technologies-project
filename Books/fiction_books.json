@@ -1,0 +1,642 @@
+[
+    {
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "category": ["Fantasy", "Romance"],
+      "synopsis": "A mortal huntress is taken to the faerie lands after killing a wolf, only to discover ancient curses, deadly politics, and a dangerous love.",
+      "release_date": "2015-05-05",
+      "cover_path": "Books/Book-covers/A Court of Thorns and Roses.jpg"
+    },
+    {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "category": ["Fantasy", "Drama"],
+      "synopsis": "A legendary magician named Kvothe recounts his childhood in a traveling troupe, his years as a street urchin, and his daring education at a magic university.",
+      "release_date": "2007-03-27",
+      "cover_path": "Books/Book-covers/The Name of the Wind.jpg"
+    },
+    {
+      "title": "Mistborn: The Final Empire",
+      "author": "Brandon Sanderson",
+      "category": ["Fantasy", "Action & Adventure"],
+      "synopsis": "In a world of ash and mist ruled by an immortal tyrant, a street thief discovers she is a rare magic user and joins a crew planning an impossible heist.",
+      "release_date": "2006-07-17",
+      "cover_path": "Books/Book-covers/Mistborn: The Final Empire.jpg"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": ["Fantasy", "Action & Adventure"],
+      "synopsis": "A reluctant hobbit leaves his quiet home to help a band of dwarves reclaim their mountain and treasure from a dragon.",
+      "release_date": "1937-09-21",
+      "cover_path": "Books/Book-covers/The Hobbit.jpg"
+    },
+    {
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "category": ["Fantasy", "Action & Adventure"],
+      "synopsis": "A young hobbit receives a powerful ring and joins a fellowship tasked with destroying it to stop a rising dark lord.",
+      "release_date": "1954-07-29",
+      "cover_path": "Books/Book-covers/The Fellowship of the Ring.jpg"
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "category": ["Fantasy", "Drama", "Action & Adventure"],
+      "synopsis": "Noble families vie for control of a contested throne as an ancient supernatural threat gathers in the frozen north.",
+      "release_date": "1996-08-06",
+      "cover_path": "Books/Book-covers/A Game of Thrones.jpg"
+    },
+    {
+      "title": "Six of Crows",
+      "author": "Leigh Bardugo",
+      "category": ["Fantasy", "Action & Adventure", "Mystery"],
+      "synopsis": "A criminal prodigy assembles a crew of outcasts to pull off a dangerous heist in a heavily fortified ice prison.",
+      "release_date": "2015-09-29",
+      "cover_path": "Books/Book-covers/Six of Crows.jpg"
+    },
+    {
+      "title": "The Lies of Locke Lamora",
+      "author": "Scott Lynch",
+      "category": ["Fantasy", "Action & Adventure"],
+      "synopsis": "A gifted con artist and his gang of thieves become entangled in a deadly power struggle in a Venice-like fantasy city.",
+      "release_date": "2006-06-27",
+      "cover_path": "Books/Book-covers/The Lies of Locke Lamora.jpg"
+    },
+    {
+      "title": "The Way of Kings",
+      "author": "Brandon Sanderson",
+      "category": ["Fantasy", "Action & Adventure", "Drama"],
+      "synopsis": "On a storm-battered world, a broken soldier, a troubled scholar, and a conflicted leader shape the fate of empires and ancient magic.",
+      "release_date": "2010-08-31",
+      "cover_path": "Books/Book-covers/The Way of Kings.jpg"
+    },
+    {
+      "title": "The City of Brass",
+      "author": "S.A. Chakraborty",
+      "category": ["Fantasy", "Mystery"],
+      "synopsis": "A conwoman in 18th‑century Cairo accidentally summons a djinn warrior and is pulled into the politics and secrets of a magical city.",
+      "release_date": "2017-11-14",
+      "cover_path": "Books/Book-covers/The City of Brass.jpg"
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "category": ["Sci-Fi", "Action & Adventure"],
+      "synopsis": "A lone astronaut wakes up on a starship with no memory and must solve an interstellar mystery to save Earth.",
+      "release_date": "2021-05-04",
+      "cover_path": "Books/Book-covers/Project Hail Mary.jpg"
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": ["Sci-Fi", "Action & Adventure"],
+      "synopsis": "The heir of a noble house is thrust into political and ecological conflict on a desert planet that produces a vital spice.",
+      "release_date": "1965-08-01",
+      "cover_path": "Books/Book-covers/Dune.jpg"
+    },
+    {
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "category": ["Sci-Fi", "Mystery"],
+      "synopsis": "A washed‑up hacker is hired for one last dangerous job in a world of cyberspace, AI, and corporate intrigue.",
+      "release_date": "1984-07-01",
+      "cover_path": "Books/Book-covers/Neuromancer.jpg"
+    },
+    {
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "category": ["Sci-Fi", "Drama"],
+      "synopsis": "A mathematician predicts the fall of a galactic empire and founds a group to preserve knowledge and shorten the coming dark age.",
+      "release_date": "1951-06-01",
+      "cover_path": "Books/Book-covers/Foundation.jpg"
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "category": ["Sci-Fi", "Drama"],
+      "synopsis": "An envoy from an interstellar alliance travels to a frozen world whose inhabitants have a unique, fluid approach to gender.",
+      "release_date": "1969-03-01",
+      "cover_path": "Books/Book-covers/The Left Hand of Darkness.jpg"
+    },
+    {
+      "title": "Hyperion",
+      "author": "Dan Simmons",
+      "category": ["Sci-Fi", "Mystery"],
+      "synopsis": "Seven pilgrims journey to a distant world, each with a haunting story tied to a mysterious creature known as the Shrike.",
+      "release_date": "1989-05-26",
+      "cover_path": "Books/Book-covers/Hyperion.jpg"
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "category": ["Sci-Fi", "Action & Adventure", "Drama"],
+      "synopsis": "A teenager volunteers to take her sister’s place in a deadly televised arena where children fight to the death.",
+      "release_date": "2008-09-14",
+      "cover_path": "Books/Book-covers/The Hunger Games.jpg"
+    },
+    {
+      "title": "The Three-Body Problem",
+      "author": "Liu Cixin",
+      "category": ["Sci-Fi", "Mystery"],
+      "synopsis": "Scientists and gamers become entangled in a secret project linked to first contact with an alien civilization.",
+      "release_date": "2006-01-01",
+      "cover_path": "Books/Book-covers/The Three-Body Problem.jpg"
+    },
+    {
+      "title": "Annihilation",
+      "author": "Jeff VanderMeer",
+      "category": ["Sci-Fi", "Horror", "Mystery"],
+      "synopsis": "An all‑female expedition enters a quarantined wilderness where the laws of nature no longer apply.",
+      "release_date": "2014-02-04",
+      "cover_path": "Books/Book-covers/Annihilation.jpg"
+    },
+    {
+      "title": "Illuminae",
+      "author": "Amie Kaufman & Jay Kristoff",
+      "category": ["Sci-Fi", "Action & Adventure", "Drama"],
+      "synopsis": "Two teens fight to survive on fleeing starships after their planet is attacked, while a rogue AI and spreading infection threaten everyone aboard.",
+      "release_date": "2015-10-20",
+      "cover_path": "Books/Book-covers/Illuminae.jpg"
+    },
+    {
+      "title": "Outlander",
+      "author": "Diana Gabaldon",
+      "category": ["Romance", "Fantasy", "Drama"],
+      "synopsis": "A married nurse from 1945 is transported to 18th‑century Scotland, where she falls in love with a Highland warrior.",
+      "release_date": "1991-06-01",
+      "cover_path": "Books/Book-covers/Outlander.jpg"
+    },
+    {
+      "title": "The Time Traveler's Wife",
+      "author": "Audrey Niffenegger",
+      "category": ["Romance", "Sci-Fi", "Drama"],
+      "synopsis": "A woman’s life is entwined with a man who involuntarily time travels, causing a nonlinear and often painful love story.",
+      "release_date": "2003-07-05",
+      "cover_path": "Books/Book-covers/The Time Traveler's Wife.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": ["Romance", "Drama"],
+      "synopsis": "A witty young woman navigates love, class, and misunderstandings with a seemingly proud gentleman in Regency England.",
+      "release_date": "1813-01-28",
+      "cover_path": "Books/Book-covers/Pride and Prejudice.jpg"
+    },
+    {
+      "title": "The Notebook",
+      "author": "Nicholas Sparks",
+      "category": ["Romance", "Drama"],
+      "synopsis": "An elderly man recounts the lifelong love story between a poor country boy and a wealthy young woman.",
+      "release_date": "1996-10-01",
+      "cover_path": "Books/Book-covers/The Notebook.jpg"
+    },
+    {
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "category": ["Romance", "Drama"],
+      "synopsis": "A quirky caretaker forms a deep bond with a once‑adventurous man now living with quadriplegia after an accident.",
+      "release_date": "2012-01-05",
+      "cover_path": "Books/Book-covers/Me Before You.jpg"
+    },
+    {
+      "title": "Red, White & Royal Blue",
+      "author": "Casey McQuiston",
+      "category": ["Romance", "Drama"],
+      "synopsis": "The First Son of the United States falls for a British prince after a public rivalry forces them into a fake friendship.",
+      "release_date": "2019-05-14",
+      "cover_path": "Books/Book-covers/Red, White & Royal Blue.jpg"
+    },
+    {
+      "title": "The Hating Game",
+      "author": "Sally Thorne",
+      "category": ["Romance", "Comic"],
+      "synopsis": "Two office rivals locked in a promotion battle slowly realize their mutual loathing hides a strong attraction.",
+      "release_date": "2016-08-09",
+      "cover_path": "Books/Book-covers/The Hating Game.jpg"
+    },
+    {
+      "title": "The Love Hypothesis",
+      "author": "Ali Hazelwood",
+      "category": ["Romance", "Comic"],
+      "synopsis": "A PhD student pretends to date a grumpy professor, only for their fake relationship to become disarmingly real.",
+      "release_date": "2021-09-14",
+      "cover_path": "Books/Book-covers/The Love Hypothesis.jpg"
+    },
+    {
+      "title": "Book Lovers",
+      "author": "Emily Henry",
+      "category": ["Romance", "Drama"],
+      "synopsis": "A driven literary agent and a brooding editor keep crossing paths in a small town getaway neither of them really wanted.",
+      "release_date": "2022-05-03",
+      "cover_path": "Books/Book-covers/Book Lovers.jpg"
+    },
+    {
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "category": ["Fantasy", "Romance"],
+      "synopsis": "Two rival magicians, bound to a deadly competition, fall in love as their enchanted circus becomes the stage for their duel.",
+      "release_date": "2011-09-13",
+      "cover_path": "Books/Book-covers/The Night Circus.jpg"
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "category": ["Mystery", "Thriller", "Drama"],
+      "synopsis": "A journalist and a brilliant hacker investigate a decades‑old disappearance tied to a powerful family’s secrets.",
+      "release_date": "2005-08-01",
+      "cover_path": "Books/Book-covers/The Girl with the Dragon Tattoo.jpg"
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "category": ["Mystery", "Drama"],
+      "synopsis": "A woman’s sudden disappearance turns into a media circus while her husband becomes the prime suspect amid twisted revelations.",
+      "release_date": "2012-06-05",
+      "cover_path": "Books/Book-covers/Gone Girl.jpg"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "category": ["Mystery", "Action & Adventure"],
+      "synopsis": "A symbologist and a cryptologist race across Europe to solve a murder intertwined with religious conspiracies.",
+      "release_date": "2003-03-18",
+      "cover_path": "Books/Book-covers/The Da Vinci Code.jpg"
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "category": ["Mystery", "Drama"],
+      "synopsis": "Detective Hercule Poirot must solve a murder aboard a snowbound luxury train where every passenger seems suspicious.",
+      "release_date": "1934-01-01",
+      "cover_path": "Books/Book-covers/Murder on the Orient Express.jpg"
+    },
+    {
+      "title": "Big Little Lies",
+      "author": "Liane Moriarty",
+      "category": ["Mystery", "Drama"],
+      "synopsis": "Several mothers in a seaside town become linked by a school incident, simmering tensions, and a shocking death.",
+      "release_date": "2014-07-29",
+      "cover_path": "Books/Book-covers/Big Little Lies.jpg"
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "category": ["Mystery", "Drama"],
+      "synopsis": "A psychotherapist becomes obsessed with understanding why a famous painter stopped speaking after allegedly killing her husband.",
+      "release_date": "2019-02-05",
+      "cover_path": "Books/Book-covers/The Silent Patient.jpg"
+    },
+    {
+      "title": "Sharp Objects",
+      "author": "Gillian Flynn",
+      "category": ["Mystery", "Horror", "Drama"],
+      "synopsis": "A reporter returns to her hometown to cover the murder of young girls while confronting her own disturbing past.",
+      "release_date": "2006-09-26",
+      "cover_path": "Books/Book-covers/Sharp Objects.jpg"
+    },
+    {
+      "title": "The 7½ Deaths of Evelyn Hardcastle",
+      "author": "Stuart Turton",
+      "category": ["Mystery", "Fantasy"],
+      "synopsis": "A man relives the same day in different bodies at a country estate party, tasked with solving a woman’s murder.",
+      "release_date": "2018-02-08",
+      "cover_path": "Books/Book-covers/The 7½ Deaths of Evelyn Hardcastle.jpg"
+    },
+    {
+      "title": "The Thursday Murder Club",
+      "author": "Richard Osman",
+      "category": ["Mystery", "Comic"],
+      "synopsis": "Four retirees in a peaceful village meet weekly to study cold cases until they stumble into a very real murder.",
+      "release_date": "2020-09-03",
+      "cover_path": "Books/Book-covers/The Thursday Murder Club.jpg"
+    },
+    {
+      "title": "The Maid",
+      "author": "Nita Prose",
+      "category": ["Mystery", "Drama"],
+      "synopsis": "A socially awkward hotel maid becomes the focus of suspicion when she discovers a wealthy guest dead in his suite.",
+      "release_date": "2022-01-04",
+      "cover_path": "Books/Book-covers/The Maid.jpg"
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "category": ["Horror", "Drama"],
+      "synopsis": "A struggling writer becomes winter caretaker of a remote hotel where supernatural forces prey on his family.",
+      "release_date": "1977-01-28",
+      "cover_path": "Books/Book-covers/The Shining.jpg"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "category": ["Horror", "Mystery"],
+      "synopsis": "A group of people band together to stop an ancient vampire who seeks to spread his curse to England.",
+      "release_date": "1897-05-26",
+      "cover_path": "Books/Book-covers/Dracula.jpg"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "category": ["Horror", "Drama"],
+      "synopsis": "A scientist animates a being from dead body parts, only to be horrified by his creation and the consequences.",
+      "release_date": "1818-01-01",
+      "cover_path": "Books/Book-covers/Frankenstein.jpg"
+    },
+    {
+      "title": "Mexican Gothic",
+      "author": "Silvia Moreno-Garcia",
+      "category": ["Horror", "Mystery"],
+      "synopsis": "A glamorous young woman travels to a decaying mansion in rural Mexico to check on her cousin’s unsettling new marriage.",
+      "release_date": "2020-06-30",
+      "cover_path": "Books/Book-covers/Mexican Gothic.jpg"
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "author": "Shirley Jackson",
+      "category": ["Horror", "Drama"],
+      "synopsis": "Guests join a paranormal investigator at an infamous mansion, where the house itself seems to react to them.",
+      "release_date": "1959-10-16",
+      "cover_path": "Books/Book-covers/The Haunting of Hill House.jpg"
+    },
+    {
+      "title": "Bird Box",
+      "author": "Josh Malerman",
+      "category": ["Horror", "Action & Adventure"],
+      "synopsis": "A mysterious presence drives people to madness if seen, forcing survivors to navigate a devastated world blindfolded.",
+      "release_date": "2014-03-27",
+      "cover_path": "Books/Book-covers/Bird Box.jpg"
+    },
+    {
+      "title": "The Only Good Indians",
+      "author": "Stephen Graham Jones",
+      "category": ["Horror", "Drama"],
+      "synopsis": "Four Native American men face a vengeful entity tied to a transgression from their youth.",
+      "release_date": "2020-07-14",
+      "cover_path": "Books/Book-covers/The Only Good Indians.jpg"
+    },
+    {
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "category": ["Horror", "Mystery"],
+      "synopsis": "A family’s new home reveals impossible interior spaces, documented in a manuscript that warps reality for those who read it.",
+      "release_date": "2000-03-07",
+      "cover_path": "Books/Book-covers/House of Leaves.jpg"
+    },
+    {
+      "title": "The Fisherman",
+      "author": "John Langan",
+      "category": ["Horror", "Drama"],
+      "synopsis": "Two widowers bonding over fishing discover a cursed reservoir with a history of eldritch horrors.",
+      "release_date": "2016-06-30",
+      "cover_path": "Books/Book-covers/The Fisherman.jpg"
+    },
+    {
+      "title": "The Cabin at the End of the World",
+      "author": "Paul Tremblay",
+      "category": ["Horror", "Drama"],
+      "synopsis": "A family’s vacation at a remote cabin is interrupted by strangers who claim a ritual sacrifice is needed to prevent the apocalypse.",
+      "release_date": "2018-06-26",
+      "cover_path": "Books/Book-covers/The Cabin at the End of the World.jpg"
+    },
+    {
+      "title": "Jurassic Park",
+      "author": "Michael Crichton",
+      "category": ["Action & Adventure", "Sci-Fi"],
+      "synopsis": "A theme park featuring cloned dinosaurs turns deadly when the creatures escape their enclosures.",
+      "release_date": "1990-11-20",
+      "cover_path": "Books/Book-covers/Jurassic Park.jpg"
+    },
+    {
+      "title": "Ready Player One",
+      "author": "Ernest Cline",
+      "category": ["Action & Adventure", "Sci-Fi"],
+      "synopsis": "A teen competes in a virtual reality treasure hunt whose prize is control of a global online world.",
+      "release_date": "2011-08-16",
+      "cover_path": "Books/Book-covers/Ready Player One.jpg"
+    },
+    {
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "category": ["Action & Adventure", "Sci-Fi"],
+      "synopsis": "An astronaut stranded on Mars must use engineering and botany to survive until rescue is possible.",
+      "release_date": "2011-09-27",
+      "cover_path": "Books/Book-covers/The Martian.jpg"
+    },
+    {
+      "title": "The Bourne Identity",
+      "author": "Robert Ludlum",
+      "category": ["Action & Adventure", "Mystery"],
+      "synopsis": "An amnesiac man discovers he has deadly skills and a dangerous past as he is hunted across Europe.",
+      "release_date": "1980-02-04",
+      "cover_path": "Books/Book-covers/The Bourne Identity.jpg"
+    },
+    {
+      "title": "The Black Company",
+      "author": "Glen Cook",
+      "category": ["Action & Adventure", "Fantasy"],
+      "synopsis": "An elite mercenary company chronicles its campaigns while serving a powerful and morally ambiguous sorceress.",
+      "release_date": "1984-05-01",
+      "cover_path": "Books/Book-covers/The Black Company.jpg"
+    },
+    {
+      "title": "Trail of Lightning",
+      "author": "Rebecca Roanhorse",
+      "category": ["Action & Adventure", "Fantasy"],
+      "synopsis": "In a post‑apocalyptic Navajo reservation, a monster hunter with clan powers tracks down newly awakened horrors.",
+      "release_date": "2018-06-26",
+      "cover_path": "Books/Book-covers/Trail of Lightning.jpg"
+    },
+    {
+      "title": "Leviathan Wakes",
+      "author": "James S. A. Corey",
+      "category": ["Action & Adventure", "Sci-Fi"],
+      "synopsis": "A down‑on‑his‑luck captain and a detective uncover a conspiracy involving a dangerous alien protomolecule.",
+      "release_date": "2011-06-02",
+      "cover_path": "Books/Book-covers/Leviathan Wakes.jpg"
+    },
+    {
+      "title": "The Bone Ships",
+      "author": "RJ Barker",
+      "category": ["Action & Adventure", "Fantasy"],
+      "synopsis": "Outcasts crew a ship built from dragon bones to hunt a newly sighted sea dragon and change their nation’s fate.",
+      "release_date": "2019-09-24",
+      "cover_path": "Books/Book-covers/The Bone Ships.jpg"
+    },
+    {
+      "title": "Seven Deadly Wonders",
+      "author": "Matthew Reilly",
+      "category": ["Action & Adventure", "Thriller"],
+      "synopsis": "A special forces team races to collect pieces of an ancient device hidden at the Seven Wonders of the World.",
+      "release_date": "2005-01-01",
+      "cover_path": "Books/Book-covers/Seven Deadly Wonders.jpg"
+    },
+    {
+      "title": "The Lost City of Z",
+      "author": "David Grann",
+      "category": ["Action & Adventure", "Drama"],
+      "synopsis": "A journalist retraces the doomed Amazon expedition of a British explorer obsessed with finding a fabled city.",
+      "release_date": "2009-02-24",
+      "cover_path": "Books/Book-covers/The Lost City of Z.jpg"
+    },
+    {
+      "title": "Watchmen",
+      "author": "Alan Moore & Dave Gibbons",
+      "category": ["Comic", "Graphic Novel"],
+      "synopsis": "Former costumed heroes investigate a conspiracy while confronting their own flawed morality in an alternate Cold War America.",
+      "release_date": "1986-09-01",
+      "cover_path": "Books/Book-covers/Watchmen.jpg"
+    },
+    {
+      "title": "V for Vendetta",
+      "author": "Alan Moore & David Lloyd",
+      "category": ["Comic", "Graphic Novel"],
+      "synopsis": "A masked vigilante wages a one‑man war against a fascist regime in a near‑future Britain.",
+      "release_date": "1982-03-01",
+      "cover_path": "Books/Book-covers/V for Vendetta.jpg"
+    },
+    {
+      "title": "Saga, Vol. 1",
+      "author": "Brian K. Vaughan & Fiona Staples",
+      "category": ["Comic", "Graphic Novel", "Sci-Fi"],
+      "synopsis": "Star‑crossed lovers from warring species try to protect their newborn daughter while fleeing soldiers and bounty hunters.",
+      "release_date": "2012-10-23",
+      "cover_path": "Books/Book-covers/Saga, Vol. 1.jpg"
+    },
+    {
+      "title": "Sandman: Preludes & Nocturnes",
+      "author": "Neil Gaiman",
+      "category": ["Comic", "Graphic Novel", "Fantasy"],
+      "synopsis": "The personification of Dream escapes decades of imprisonment and begins reclaiming his lost tools and realm.",
+      "release_date": "1989-11-29",
+      "cover_path": "Books/Book-covers/Sandman: Preludes & Nocturnes.jpg"
+    },
+    {
+      "title": "Batman: The Dark Knight Returns",
+      "author": "Frank Miller",
+      "category": ["Comic", "Graphic Novel", "Action & Adventure"],
+      "synopsis": "An aging Bruce Wayne comes out of retirement to fight crime in a dystopian Gotham City.",
+      "release_date": "1986-02-01",
+      "cover_path": "Books/Book-covers/Batman- The Dark Knight Returns.jpg"
+    },
+    {
+      "title": "Maus",
+      "author": "Art Spiegelman",
+      "category": ["Graphic Novel", "Drama"],
+      "synopsis": "A cartoonist portrays his father’s Holocaust experiences and their strained relationship using animal metaphors.",
+      "release_date": "1986-08-12",
+      "cover_path": "Books/Book-covers/Maus.jpg"
+    },
+    {
+      "title": "Persepolis",
+      "author": "Marjane Satrapi",
+      "category": ["Graphic Novel", "Drama"],
+      "synopsis": "A young girl comes of age during and after the Iranian Revolution, told in stark black‑and‑white comics.",
+      "release_date": "2000-11-01",
+      "cover_path": "Books/Book-covers/Persepolis.jpg"
+    },
+    {
+      "title": "Bone, Vol. 1: Out from Boneville",
+      "author": "Jeff Smith",
+      "category": ["Comic", "Graphic Novel", "Fantasy"],
+      "synopsis": "Three cousins lost in a mysterious valley encounter talking animals, ancient prophecies, and encroaching darkness.",
+      "release_date": "1991-07-01",
+      "cover_path": "Books/Book-covers/Bone, Vol. 1: Out from Boneville.jpg"
+    },
+    {
+      "title": "Mind MGMT, Vol. 1",
+      "author": "Matt Kindt",
+      "category": ["Comic", "Graphic Novel", "Mystery"],
+      "synopsis": "A writer investigating a bizarre airline incident uncovers a secret government program of psychic agents.",
+      "release_date": "2013-05-07",
+      "cover_path": "Books/Book-covers/Mind MGMT, Vol. 1.jpg"
+    },
+    {
+      "title": "Doom Patrol by Grant Morrison, Vol. 1",
+      "author": "Grant Morrison & Richard Case",
+      "category": ["Comic", "Graphic Novel"],
+      "synopsis": "A team of misfit heroes confront surreal threats that challenge both reality and sanity.",
+      "release_date": "1989-07-01",
+      "cover_path": "Books/Book-covers/Doom Patrol by Grant Morrison, Vol. 1.jpg"
+    },
+    {
+      "title": "Fullmetal Alchemist, Vol. 1",
+      "author": "Hiromu Arakawa",
+      "category": ["Manga", "Fantasy", "Action & Adventure"],
+      "synopsis": "Two brothers use alchemy in search of the Philosopher’s Stone after a forbidden ritual costs them their bodies.",
+      "release_date": "2001-07-12",
+      "cover_path": "Books/Book-covers/Fullmetal Alchemist, Vol. 1.jpg"
+    },
+    {
+      "title": "Death Note, Vol. 1: Boredom",
+      "author": "Tsugumi Ohba & Takeshi Obata",
+      "category": ["Manga", "Mystery", "Horror"],
+      "synopsis": "A high school student gains a notebook that kills anyone whose name is written in it and decides to reshape the world.",
+      "release_date": "2003-12-01",
+      "cover_path": "Books/Book-covers/Death Note, Vol. 1.jpg"
+    },
+    {
+      "title": "Naruto, Vol. 1: Uzumaki Naruto",
+      "author": "Masashi Kishimoto",
+      "category": ["Manga", "Action & Adventure"],
+      "synopsis": "A troublemaking ninja‑in‑training dreams of becoming leader of his village despite the demon fox sealed inside him.",
+      "release_date": "1999-03-03",
+      "cover_path": "Books/Book-covers/Naruto, Vol. 1: Uzumaki Naruto.jpg"
+    },
+    {
+      "title": "One Piece, Vol. 1: Romance Dawn",
+      "author": "Eiichiro Oda",
+      "category": ["Manga", "Action & Adventure", "Comic"],
+      "synopsis": "A boy whose body gained rubber powers sets sail to find the world’s greatest treasure and become Pirate King.",
+      "release_date": "1997-12-24",
+      "cover_path": "Books/Book-covers/One Piece, Vol. 1: Romance Dawn.jpg"
+    },
+    {
+      "title": "Attack on Titan, Vol. 1",
+      "author": "Hajime Isayama",
+      "category": ["Manga", "Action & Adventure", "Horror"],
+      "synopsis": "Humanity hides behind massive walls to survive against man‑eating giants until a new breach changes everything.",
+      "release_date": "2009-03-17",
+      "cover_path": "Books/Book-covers/Attack on Titan, Vol. 1.jpg"
+    },
+    {
+      "title": "Berserk, Vol. 1",
+      "author": "Kentaro Miura",
+      "category": ["Manga", "Fantasy", "Horror"],
+      "synopsis": "A lone black‑sworded mercenary battles monsters and men alike in a relentlessly dark medieval world.",
+      "release_date": "1990-11-26",
+      "cover_path": "Books/Book-covers/Berserk, Vol. 1.jpg"
+    },
+    {
+      "title": "20th Century Boys, Vol. 1",
+      "author": "Naoki Urasawa",
+      "category": ["Manga", "Mystery", "Drama"],
+      "synopsis": "A group of childhood friends realize a doomsday cult may be reenacting symbols from a story they once made up.",
+      "release_date": "1999-09-18",
+      "cover_path": "Books/Book-covers/20th Century Boys, Vol. 1.jpg"
+    },
+    {
+      "title": "Spy x Family, Vol. 1",
+      "author": "Tatsuya Endo",
+      "category": ["Manga", "Comic", "Action & Adventure"],
+      "synopsis": "A spy forms a fake family for a mission, unaware his wife is an assassin and his adopted daughter is a telepath.",
+      "release_date": "2019-07-04",
+      "cover_path": "Books/Book-covers/Spy x Family, Vol. 1.jpg"
+    },
+    {
+      "title": "Vinland Saga, Vol. 1",
+      "author": "Makoto Yukimura",
+      "category": ["Manga", "Action & Adventure", "Drama"],
+      "synopsis": "A young Viking warrior seeks revenge against the mercenary leader who killed his father.",
+      "release_date": "2005-07-15",
+      "cover_path": "Books/Book-covers/Vinland Saga, Vol. 1.jpg"
+    },
+    {
+      "title": "InuYasha, Vol. 1",
+      "author": "Rumiko Takahashi",
+      "category": ["Manga", "Fantasy", "Romance"],
+      "synopsis": "A modern‑day schoolgirl is pulled into Japan’s feudal era, where she teams up with a half‑demon to recover shards of a powerful jewel.",
+      "release_date": "1997-11-18",
+      "cover_path": "Books/Book-covers/InuYasha, Vol. 1.jpg"
+    }
+]
