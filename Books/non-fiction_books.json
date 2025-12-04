@@ -5,7 +5,7 @@
     "category": ["History", "Science"],
     "synopsis": "A sweeping narrative of how Homo sapiens evolved, spread across the globe, built complex societies, and reshaped the planet.",
     "release_date": "2011-01-01",
-    "cover_path": "Books/Book-covers/Sapiens: A Brief History of Humankind.jpg"
+    "cover_path": "Books/Book-covers/Sapiens A Brief History of Humankind.jpg"
   },
   {
     "title": "Guns, Germs, and Steel: The Fates of Human Societies",
@@ -13,7 +13,7 @@
     "category": ["History", "Science"],
     "synopsis": "An exploration of how geography, agriculture, and infectious disease shaped the unequal development of civilizations.",
     "release_date": "1997-03-01",
-    "cover_path": "Books/Book-covers/Guns, Germs, and Steel: The Fates of Human Societies.jpg"
+    "cover_path": "Books/Book-covers/Guns, Germs, and Steel The Fates of Human Societies.jpg"
   },
   {
     "title": "1491: New Revelations of the Americas Before Columbus",
@@ -21,7 +21,7 @@
     "category": ["History"],
     "synopsis": "A reexamination of the Americas before European contact, arguing that pre-Columbian societies were more populous and advanced than once believed.",
     "release_date": "2005-08-02",
-    "cover_path": "Books/Book-covers/1491: New Revelations of the Americas Before Columbus.jpg"
+    "cover_path": "Books/Book-covers/1491 New Revelations of the Americas Before Columbus.jpg"
   },
   {
     "title": "The Diary of a Young Girl",
@@ -45,7 +45,7 @@
     "category": ["History", "Biography/Autobiography"],
     "synopsis": "An account of Abraham Lincoln’s leadership style and his decision to appoint political rivals to his cabinet during the Civil War.",
     "release_date": "2005-10-25",
-    "cover_path": "Books/Book-covers/Team of Rivals: The Political Genius of Abraham Lincoln.jpg"
+    "cover_path": "Books/Book-covers/Team of Rivals The Political Genius of Abraham Lincoln.jpg"
   },
   {
     "title": "The Rise and Fall of the Third Reich",
@@ -61,7 +61,7 @@
     "category": ["History"],
     "synopsis": "A global history that places Asia and the trade routes between East and West at the center of world events.",
     "release_date": "2015-08-27",
-    "cover_path": "Books/Book-covers/The Silk Roads: A New History of the World.jpg"
+    "cover_path": "Books/Book-covers/The Silk Roads A New History of the World.jpg"
   },
   {
     "title": "A People’s History of the United States",
@@ -77,7 +77,7 @@
     "category": ["History"],
     "synopsis": "A narrative overview of human history that emphasizes how cultures and ideas shaped global connections and conflicts.",
     "release_date": "2019-10-01",
-    "cover_path": "Books/Book-covers/The Invention of Yesterday: A 50,000-Year History of Human Culture, Conflict, and Connection.jpg"
+    "cover_path": "Books/Book-covers/The Invention of Yesterday A 50,000-Year History of Human Culture, Conflict, and Connection.jpg"
   },
 
   {
@@ -86,7 +86,7 @@
     "category": ["Self Help", "Health & Fitness"],
     "synopsis": "A practical guide to forming small daily habits that compound into significant long-term change.",
     "release_date": "2018-10-16",
-    "cover_path": "Books/Book-covers/Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.jpg"
+    "cover_path": "Books/Book-covers/Atomic Habits An Easy & Proven Way to Build Good Habits & Break Bad Ones.jpg"
   },
   {
     "title": "The 7 Habits of Highly Effective People",
@@ -118,7 +118,7 @@
     "category": ["Self Help", "Religion & Spirituality"],
     "synopsis": "A guide to cultivating presence and reducing psychological suffering by focusing on the present moment.",
     "release_date": "1997-01-01",
-    "cover_path": "Books/Book-covers/The Power of Now: A Guide to Spiritual Enlightenment.jpg"
+    "cover_path": "Books/Book-covers/The Power of Now A Guide to Spiritual Enlightenment.jpg"
   },
   {
     "title": "Man’s Search for Meaning",
@@ -150,7 +150,7 @@
     "category": ["Self Help", "Education"],
     "synopsis": "A framework for cultivating the ability to focus intensely and produce high-quality work in less time.",
     "release_date": "2016-01-05",
-    "cover_path": "Books/Book-covers/Deep Work: Rules for Focused Success in a Distracted World.jpg"
+    "cover_path": "Books/Book-covers/Deep Work Rules for Focused Success in a Distracted World.jpg"
   },
   {
     "title": "Mindset: The New Psychology of Success",
@@ -158,7 +158,7 @@
     "category": ["Self Help", "Education"],
     "synopsis": "An exploration of fixed versus growth mindsets and how beliefs about ability affect learning and achievement.",
     "release_date": "2006-02-28",
-    "cover_path": "Books/Book-covers/Mindset: The New Psychology of Success.jpg"
+    "cover_path": "Books/Book-covers/Mindset The New Psychology of Success.jpg"
   },
 
   {
@@ -231,7 +231,7 @@
     "category": ["Religion & Spirituality"],
     "synopsis": "A defense of Christian faith responding to common doubts and objections about belief in God.",
     "release_date": "2008-02-14",
-    "cover_path": "Books/Book-covers/The Reason for God: Belief in an Age of Skepticism.jpg"
+    "cover_path": "Books/Book-covers/The Reason for God Belief in an Age of Skepticism.jpg"
   },
   {
     "title": "The God Delusion",
@@ -264,7 +264,7 @@
     "category": ["Education", "Science"],
     "synopsis": "Research-based strategies for more effective learning, including spaced practice, retrieval, and interleaving.",
     "release_date": "2014-04-14",
-    "cover_path": "Books/Book-covers/Make It Stick: The Science of Successful Learning.jpg"
+    "cover_path": "Books/Book-covers/Make It Stick The Science of Successful Learning.jpg"
   },
   {
     "title": "Why Don’t Students Like School?",
@@ -296,7 +296,7 @@
     "category": ["Education", "Self Help"],
     "synopsis": "Stories and arguments about how discovering personal passion can transform education and careers.",
     "release_date": "2009-01-08",
-    "cover_path": "Books/Book-covers/The Element: How Finding Your Passion Changes Everything.jpg"
+    "cover_path": "Books/Book-covers/The Element How Finding Your Passion Changes Everything.jpg"
   },
   {
     "title": "Teach Like a Champion",
@@ -385,7 +385,7 @@
     "category": ["Philosophy", "Education"],
     "synopsis": "An accessible overview of moral and political philosophy through real-world dilemmas and case studies.",
     "release_date": "2009-09-15",
-    "cover_path": "Books/Book-covers/Justice: What’s the Right Thing to Do_.jpg"
+    "cover_path": "Books/Book-covers/Justice What’s the Right Thing to Do_.jpg"
   },
   {
     "title": "Sophie's World",
@@ -442,7 +442,7 @@
     "category": ["Science", "History"],
     "synopsis": "A history of genetics intertwined with personal stories, from early heredity theories to modern gene editing.",
     "release_date": "2016-05-17",
-    "cover_path": "Books/Book-covers/The Gene: An Intimate History.jpg"
+    "cover_path": "Books/Book-covers/The Gene An Intimate History.jpg"
   },
   {
     "title": "The Emperor of All Maladies: A Biography of Cancer",
@@ -450,7 +450,7 @@
     "category": ["Science", "Health & Fitness"],
     "synopsis": "A narrative history of cancer research and treatment, framed as a biography of the disease.",
     "release_date": "2010-11-09",
-    "cover_path": "Books/Book-covers/The Emperor of All Maladies: A Biography of Cancer.jpg"
+    "cover_path": "Books/Book-covers/The Emperor of All Maladies A Biography of Cancer.jpg"
   },
   {
     "title": "The Structure of Scientific Revolutions",
@@ -482,7 +482,7 @@
     "category": ["Science"],
     "synopsis": "A defense of scientific thinking and skepticism in the face of pseudoscience and superstition.",
     "release_date": "1995-03-06",
-    "cover_path": "Books/Book-covers/The Demon-Haunted World: Science as a Candle in the Dark.jpg"
+    "cover_path": "Books/Book-covers/The Demon-Haunted World Science as a Candle in the Dark.jpg"
   },
 
   {
@@ -491,7 +491,7 @@
     "category": ["Health & Fitness", "Science"],
     "synopsis": "An overview of the science of sleep and practical guidance for improving sleep habits.",
     "release_date": "2017-10-03",
-    "cover_path": "Books/Book-covers/Why We Sleep: Unlocking the Power of Sleep and Dreams.jpg"
+    "cover_path": "Books/Book-covers/Why We Sleep Unlocking the Power of Sleep and Dreams.jpg"
   },
   {
     "title": "Born to Run",
@@ -507,7 +507,7 @@
     "category": ["Health & Fitness", "Science"],
     "synopsis": "How physical exercise affects brain function, mood, learning, and mental health.",
     "release_date": "2008-01-10",
-    "cover_path": "Books/Book-covers/Spark: The Revolutionary New Science of Exercise and the Brain.jpg"
+    "cover_path": "Books/Book-covers/Spark The Revolutionary New Science of Exercise and the Brain.jpg"
   },
   {
     "title": "In Defense of Food: An Eater’s Manifesto",
@@ -515,7 +515,7 @@
     "category": ["Health & Fitness", "Science"],
     "synopsis": "A critique of modern industrial diets with simple principles for eating more whole, real foods.",
     "release_date": "2008-01-01",
-    "cover_path": "Books/Book-covers/In Defense of Food: An Eater’s Manifesto.jpg"
+    "cover_path": "Books/Book-covers/In Defense of Food An Eater’s Manifesto.jpg"
   },
   {
     "title": "The Omnivore’s Dilemma",
@@ -701,7 +701,7 @@
     "category": ["Fun & Games", "Science"],
     "synopsis": "Playful, scientific responses to bizarre questions, often involving cartoons and thought experiments.",
     "release_date": "2014-09-02",
-    "cover_path": "Books/Book-covers/What If_: Serious Scientific Answers to Absurd Hypothetical Questions.jpg"
+    "cover_path": "Books/Book-covers/What If Serious Scientific Answers to Absurd Hypothetical Questions.jpg"
   },
   {
     "title": "The Book of Games: Strategy, Tactics & History",
@@ -709,7 +709,7 @@
     "category": ["Fun & Games", "History"],
     "synopsis": "An illustrated guide to the history, rules, and strategies of traditional games from around the world.",
     "release_date": "2008-10-28",
-    "cover_path": "Books/Book-covers/The Book of Games: Strategy, Tactics & History.jpg"
+    "cover_path": "Books/Book-covers/The Book of Games Strategy, Tactics & History.jpg"
   },
   {
     "title": "The Ultimate Puzzle Book",

@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Category</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="category.css">
 </head>
 <body>
     <header>
@@ -54,59 +55,15 @@
     </header>
 
     <main>
-        <div class="hero">
-            <div class="banner-scroller">
-                <img class="banner" src="assets/banner1.png">
-                <img class="banner" src="assets/banner2.png">
-                <img class="banner" src="assets/banner3.png">
-                <img class="banner" src="assets/banner1.png">
-            </div>
-        </div>
-        <div class="section">
-            <h1>Trending</h1>
-            <div class="book-array">
-                <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
-                <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-                <template id="book-template">
-                    <div class="book" onclick="book_clicked(this)">
-                        <img class="book-cover" src="assets/book-cover.jpg" alt="book-cover" height="200px" width="130px">
-                        <p class="title">title</p>
-                        <p class="author">author</p>
-                    </div>
-                </template>
-            </div>
-            <hr>
-        </div>
-        <div class="section">
-            <h1>Fantasy</h1>
-            <div class="book-array">
-                <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
-                <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-            </div>
-            <hr>
-        </div>
-        <div class="section">
-            <h1>Sci-Fi</h1>
-            <div class="book-array">
-                <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
-                <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-            </div>
-            <hr>
-        </div>
-        <div class="section">
-            <h1>Romance</h1>
-            <div class="book-array">
-                <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
-                <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-            </div>
-            <hr>
-        </div>
-        <div class="section">
-            <h1>History</h1>
-            <div class="book-array">
-                <button class="scroll-left-button" onclick="scroll_left(this)"><img src="assets/arrow.png"></button>
-                <button class="scroll-right-button" onclick="scroll_right(this)"><img src="assets/arrow.png"></button>
-            </div>
+        <h1>Category : <span class="category"></span></h1>
+        <div class="books">
+            <template id="book-template">
+                <div class="book" onclick="book_clicked(this)">
+                    <img class="book-cover" src="assets/book-cover.jpg" alt="book-cover" height="200px" width="130px">
+                    <p class="title">title</p>
+                    <p class="author">author</p>
+                </div>
+            </template>
         </div>
     </main>
 
@@ -137,7 +94,6 @@
     </footer>
 
     <script src="header.js"></script>
-    <script type="module" src="script.js"></script>
-    <script src="scroll.js"></script>
+    <script type="module" src="category.js"></script>
 </body>
 </html>

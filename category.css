@@ -1,0 +1,16 @@
+main{
+    width: 90%;
+    align-self: center;
+}
+main h1{
+    margin: 20px 0px;
+}
+.books{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-bottom: 20px;
+}
+.books .book{
+    max-width: 130px;
+}
