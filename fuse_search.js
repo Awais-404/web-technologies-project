@@ -1,4 +1,4 @@
-import Fuse from "./node_modules/fuse.js/dist/fuse.mjs";
+import Fuse from "./node_modules/fuse.js/dist/fuse.min.mjs";
 import fiction from "./Books/fiction_books.json" with { type: 'json' }
 import non_fiction from "./Books/non-fiction_books.json" with { type: 'json' }
 

@@ -6,7 +6,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "fuse_search.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/fuse": "^2.5.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
