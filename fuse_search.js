@@ -1,4 +1,4 @@
-import Fuse from 'https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.mjs'
+import Fuse from 'https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.basic.min.mjs'
 import fiction from "./Books/fiction_books.json" with { type: 'json' }
 import non_fiction from "./Books/non-fiction_books.json" with { type: 'json' }
 
