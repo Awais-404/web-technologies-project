@@ -13,22 +13,37 @@ search_form.addEventListener('submit',(event)=>{
 
 // fiction drop down
 nav_fiction.addEventListener("mouseover",()=> {
+    nav_fiction.classList.add('hovered');
+    nav_non_fiction.classList.remove('hovered');
     make_invisible([non_fiction_drop_down])
     make_visible([fiction_drop_down])
 })
-fiction_drop_down.addEventListener('mouseover',()=> {make_visible([fiction_drop_down])})
-nav_fiction.addEventListener('mouseleave',()=> {make_invisible([fiction_drop_down])})
+fiction_drop_down.addEventListener('mouseover',()=> {
+    nav_fiction.classList.add('hovered');
+    make_visible([fiction_drop_down])})
+nav_fiction.addEventListener('mouseleave',()=> {
+    nav_fiction.classList.remove('hovered');
+    make_invisible([fiction_drop_down])})
 
 // Non-fiction dropdown
 nav_non_fiction.addEventListener("mouseover",()=> {
+    nav_non_fiction.classList.add('hovered');
+    nav_fiction.classList.remove('hovered');
     make_invisible([fiction_drop_down])
     make_visible([non_fiction_drop_down])
 })
-non_fiction_drop_down.addEventListener('mouseover',()=> {make_visible([non_fiction_drop_down])})
-nav_non_fiction.addEventListener('mouseleave',()=> {make_invisible([non_fiction_drop_down])})
+non_fiction_drop_down.addEventListener('mouseover',()=> {
+    nav_non_fiction.classList.add('hovered');
+    make_visible([non_fiction_drop_down])})
+nav_non_fiction.addEventListener('mouseleave',()=> {
+    nav_non_fiction.classList.remove('hovered');
+    make_invisible([non_fiction_drop_down])})
 
 // make dropdowns invisible when enter main
-main.addEventListener("mouseenter",()=> {make_invisible([fiction_drop_down, non_fiction_drop_down])})
+main.addEventListener("mouseenter",()=> {
+    nav_fiction.classList.remove('hovered');
+    nav_non_fiction.classList.remove('hovered');
+    make_invisible([fiction_drop_down, non_fiction_drop_down])})
 
 
 function make_visible(arr){

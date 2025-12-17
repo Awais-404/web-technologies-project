@@ -1,7 +1,7 @@
 *{
     margin: 0;
     --background_color: mintcream;
-    --main_color: steelblue;
+    --main_color: rgb(70, 130, 180);
     --main_color2: rgb(16, 62, 100);
     --accent_color: rgb(50, 67, 135);
     
@@ -9,7 +9,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: var(--background_color);
-    color: var(--main_color2);
+    color: var(--main_color);
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -27,11 +27,12 @@ header{
     align-items: center;
     padding: 5px;
     background-color: var(--main_color);
+    background-color: var(--background_color);
 }
 .header-top form{
     position: relative;
     background-color: var(--background_color);
-    border: 1px solid black;
+    border: 1px solid var(--main_color2);
     border-radius: 20px;
     padding: 0px, 10px;
     width: 250px;
@@ -41,7 +42,7 @@ header{
     align-items: center;
 }
 .header-top form:focus-within{
-    border: 2px solid black;
+    border: 2px solid var(--main_color2);
 }
 .header-top form button{
     position: relative;
@@ -62,13 +63,19 @@ header{
 }
 .header-top form input::placeholder{
     text-align: center;
+    color: var(--accent_color);
 }
 nav{
     width: 100%;
+    background-color: var(--background_color);
 }
 nav ul{
     display: flex;
+    justify-self: center;
+    gap: 5px;
+    padding: 5px;
     background-color: var(--background_color);
+    /* background-color: green; */
 }
 nav ul li{
     list-style: none;
@@ -77,8 +84,17 @@ nav ul li{
     align-items: center;
     gap: 5px;
     color: inherit;
+    border-radius: 20px;
 }
-
+nav ul li:hover{
+    background-color: lightblue;
+    color: blue;
+    /* box-shadow: 0 0 8px 3px blue; */
+}
+.hovered{
+        background-color: lightblue;
+        color: blue;
+    }
 .nav-drop-down{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -86,6 +102,9 @@ nav ul li{
     border: 2px solid var(--accent_color);
     width: 500px;
     gap: 5px;
+    justify-self: center;
+    position: absolute;
+    visibility: hidden;
     & button{
         border: unset;
         background-color: var(--background_color);
@@ -93,20 +112,14 @@ nav ul li{
         font-size: medium;
         height: 30px;
     }
-    & button:hover{
-        background-color: #f0f0f0;
+    & button:hover, .hovered{
+        background-color: lightblue;
+        color: blue;
     }
 }
-.fiction-drop-down{
-    position: absolute;
-    left: 122px;
-    visibility: hidden;
-}
+
 .non-fiction-drop-down{
     width: 550px;
-    position: absolute;
-    left: 229px;
-    visibility: hidden;
 }
 
 
@@ -119,6 +132,7 @@ main .hero{
     justify-self: center;
     width: 95%;
     overflow: hidden;
+    border-radius: 15px;
 }
 .hero .banner-scroller{
     display: flex;
@@ -138,18 +152,25 @@ main .section{
 }
 main .section .book-array{
     display: flex;
-    padding: 10px;
-    gap: 50px;
+    padding: 15px;
+    gap: 40px;
     overflow-x: auto;
     scrollbar-width: none;
 }
 main .book{
+    background-color: white;
+    box-shadow: 0px 1px 10px var(--accent_color);
+    padding: 6px;
+    border-radius: 10px;
     min-width: 130px;
     overflow-x: hidden;
     transition: scale, 0.3s;
 }
 main .book:hover{
     transform: scale(1.1);
+}
+main .book .book-cover{
+    border-radius: 10px;
 }
 main .book .author{
     font-size: 10pt;
